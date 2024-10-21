@@ -138,7 +138,7 @@ body, main {
 
 .badge {
     background-color: var(--bg-yellow);
-    padding: 0.25rem 0.75rem;
+    padding: 0.375rem 0.75rem;
     border-radius: 0.25rem;
     font-weight: 800;
     display: inline;
