@@ -141,18 +141,17 @@ body, main {
     padding: 0.25rem 0.75rem;
     border-radius: 0.25rem;
     font-weight: 800;
-    height: 29px;
     display: inline;
 }
 
 p, span {
-    font-size: 14px;
+    font-size: 0.875rem;
 }
 
 .title {
     font-family: "Figtree";
     font-weight: 800;
-    font-size: 24px;
+    font-size: 1.5rem;
 }
 
 .title:hover, :active, :focus {
@@ -161,26 +160,26 @@ p, span {
 }
 
 .description {
-    font-size: 16px;
+    font-size: 1rem;
     color: var(--gray-500)
 }
 
 .author-name {
-    font-size: 14px;
+    font-size: 0.875rem;
 }
 
 
 @media (max-width: 431px) {
     p, span {
-        font-size: 12px;
+        font-size: 0.75rem;
     }
 
     .title {
-        font-size: 20px;
+        font-size: 1.25rem;
     }
 
     .description {
-        font-size: 14px;
+        font-size: 0.875rem;
     }
 
     .container {
